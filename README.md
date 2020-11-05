@@ -1,2 +1,2 @@
 # SwiftExtensions
-Useful swift extensions for types etc. / Удобные расширения для разных типов для swift
+Useful swift extensions for types etc. / Convenient extensions for different types for swift
